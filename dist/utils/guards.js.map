@@ -1,0 +1,1 @@
+{"version":3,"file":"guards.js","sourceRoot":"","sources":["../../src/utils/guards.ts"],"names":[],"mappings":"AAOA,MAAM,UAAU,MAAM,CAAC,GAAY;IACjC,OAAO,CACL,OAAO,GAAG,KAAK,QAAQ;QACvB,GAAG,KAAK,IAAI;QACZ,IAAI,IAAI,GAAG;QACX,OAAO,IAAI,GAAG;QACd,WAAW,IAAI,GAAG;QAClB,WAAW,IAAI,GAAG,CACnB,CAAC;AACJ,CAAC"}
